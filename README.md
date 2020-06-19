@@ -1,2 +1,4 @@
 # Space-Invaders
-Killing a Space Invaders by ship and counting number of killed Space Invaders
+1.This project is all about to kill Space Invaders by bullets .
+2.Made a ship which fires bullets
+
